@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.mongodb.spark:mongo-spark-connector_2.11:2.4.1" type="repository">
+    <properties maven-id="org.mongodb.spark:mongo-spark-connector_2.11:2.4.1" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/mongo-spark-connector_2.11-2.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/scala-library-2.11.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mongo-java-driver-3.11.0-rc0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
